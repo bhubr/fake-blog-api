@@ -18,14 +18,14 @@
   ],
   "posts": [
     {
-      "id": 1,
+      "id": "introduction-to-seo-with-react",
       "slug": "introduction-to-seo-with-react",
       "title": "Introduction to SEO with React",
       "content": "SEO with React is complex.",
       "description": "react, seo, react-helmet, react-snap"
     },
     {
-      "id": 2,
+      "id": "another-article",
       "slug": "another-article",
       "title": "Another article",
       "content": "There is some content.",
