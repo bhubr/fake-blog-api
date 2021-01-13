@@ -31,5 +31,12 @@
       "content": "There is some content.",
       "description": ""
     }
+    {
+      "id": "another-test",
+      "slug": "another-test",
+      "title": "Another test",
+      "content": "There is some test content.",
+      "description": ""
+    }
   ]
 }
